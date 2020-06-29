@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">High and Low</string>
     <string name="high_text">High</string>
-    <string name="hit_text">当たり!!</string>
-    <string name="lose_text">ハズレ</string>
-    <string name="next_text">次へ</string>
-    <string name="lt">次へ</string>
+    <string name="hit_text">Win：</string>
+    <string name="lose_text">Lose：</string>
+    <string name="next_text">ディール</string>
     <string name="low_text">Low</string>
+    <string name="reset_text">リセット</string>
+    <string name="money_text">所持金：</string>
+    <string name="bet_text">ベット</string>
+    <string name="bet_hint">ベット額を入力</string>
+    <string name="betting_text">ベット額：</string>
 </resources>
